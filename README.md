@@ -47,6 +47,7 @@ Values you can modify to customize your game are:
 • `MaxRounds` : Maximum amount of rounds.  
 • `Max_Reducing` : This number tells how many time you want the arena to shrink.  
 • `Seconds` : Number of seconds until the first round start.  
+• __Custom ships are not available to be used for the moment__ (U-Series tiers, Nautic tiers, DTM tiers, Alien Intrusion tiers).  
 
 # Credits:
 • Naflouille / Naf / Wolfan for the mod code and development.  
