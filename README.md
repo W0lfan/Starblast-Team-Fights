@@ -3,19 +3,19 @@ Starblast Battlefield!
 
 # Mod particularities:
 • It is a 6v6 utilizing the vanilla T6 ship tree.  
-• You start off by joining a team, either red or blue.
-• Each team will pick a T6 at the start, with only 20 seconds to decide.
-• You will then fight with your team vs another in an open arena. The arena will start to shrink after 60 seconds if the fight is not concluded.
-• If you are killed, you cannot respawn during that round and will be taken to a spectate.
-• If your team wins, they will that round and you will be taken back to the ship selection screen to pick again.
-• You can only pick one ship per game. So if you used Scorpion, for example, in your 1st round - It is now locked for the rest of the game.
-• There are a total of 7 rounds in the game, giving you the opportunity to use all but one ship in the T6 tree.
-• The team with the most won rounds will win the game!
+• You start off by joining a team, either red or blue.  
+• Each team will pick a T6 at the start, with only 20 seconds to decide.  
+• You will then fight with your team vs another in an open arena. The arena will start to shrink after 60 seconds if the fight is not concluded.  
+• If you are killed, you cannot respawn during that round and will be taken to a spectate.  
+• If your team wins, they will that round and you will be taken back to the ship selection screen to pick again.  
+• You can only pick one ship per game. So if you used Scorpion, for example, in your 1st round - It is now locked for the rest of the game.  
+• There are a total of 7 rounds in the game, giving you the opportunity to use all but one ship in the T6 tree.  
+• The team with the most won rounds will win the game!  
 
 # What's the goal of this mod?
 The goal of this mod is to encourage more team fights and strategically based ship choices. You go into the Arena with 5 other people and fight it out until one becomes the winner. With no restrictions such as asteroids, you are free to fight how you please and coordinate with others to achieve victory!
 
-# Modifying game values:
+# Modifying game values:  
 At the __top of the code__, you will find these lines:
 ```javascript
 Object.assign(game.custom, 
@@ -43,13 +43,13 @@ Object.assign(game.custom,
 );
 ```
 
-Values you can modify to customize your game are:
-• `MaxPlayers` : Number of players for a round (2 players means a 1vs1 game, 4 players means a 2vs2 game, etc).
-• `MaxRounds` : Maximum amount of rounds.
-• `Max_Reducing : This number tells how many time you want the arena to shrink.
-• `Seconds` : Number of seconds until the first round start.
+Values you can modify to customize your game are:  
+• `MaxPlayers` : Number of players for a round (2 players means a 1vs1 game, 4 players means a 2vs2 game, etc).  
+• `MaxRounds` : Maximum amount of rounds.  
+• `Max_Reducing : This number tells how many time you want the arena to shrink.  
+• `Seconds` : Number of seconds until the first round start.  
 
 # Credits:
-• Naflouille / Naf / Wolfan for the mod code and development.
-• Glitch & Koromgo for the mod idea.
-• Thanks to all the testers, contributors, etc!
+• Naflouille / Naf / Wolfan for the mod code and development.  
+• Glitch & Koromgo for the mod idea.  
+• Thanks to all the testers, contributors, etc!  
