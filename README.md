@@ -45,10 +45,14 @@ Object.assign(game.custom,
 Values you can modify to customize your game are:  
 • `MaxPlayers` : Number of players for a round (2 players means a 1vs1 game, 4 players means a 2vs2 game, etc).  
 • `MaxRounds` : Maximum amount of rounds.  
-• `Max_Reducing : This number tells how many time you want the arena to shrink.  
+• `Max_Reducing` : This number tells how many time you want the arena to shrink.  
 • `Seconds` : Number of seconds until the first round start.  
 
 # Credits:
 • Naflouille / Naf / Wolfan for the mod code and development.  
 • Glitch & Koromgo for the mod idea.  
 • Thanks to all the testers, contributors, etc!  
+
+# Mod code:
+**No code available for the moment**.  
+You might want to join the [Discord Server](https://discord.gg/Q5RTE3GF9Y) of the mod. Stay tuned to news, polls, and soon, codes launch!
