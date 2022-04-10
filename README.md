@@ -40,7 +40,8 @@ Object.assign(game.custom,
         Coordination : [0,0],
         Last_Seconds : 19
     }
-);```
+);
+```
 
 Values you can modify to customize your game are:
 • `MaxPlayers` : Number of players for a round (2 players means a 1vs1 game, 4 players means a 2vs2 game, etc).
