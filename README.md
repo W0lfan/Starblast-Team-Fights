@@ -2,7 +2,7 @@
 Starblast Battlefield!
 
 # Mod particularities:
-• It is a 6v6 utilizing the vanilla T6 ship tree.
+• It is a 6v6 utilizing the vanilla T6 ship tree.<\b>
 • You start off by joining a team, either red or blue.
 • Each team will pick a T6 at the start, with only 20 seconds to decide.
 • You will then fight with your team vs another in an open arena. The arena will start to shrink after 60 seconds if the fight is not concluded.
