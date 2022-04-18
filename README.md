@@ -1,4 +1,4 @@
-# Starblast Battlefield Mod
+# Starblast Team Fights Mod
 
 # Mod particularities:
 • It is a 6v6 utilizing the vanilla T6 ship tree.  
