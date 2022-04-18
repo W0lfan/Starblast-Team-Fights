@@ -56,4 +56,9 @@ Values you can modify to customize your game are:
 
 # Mod code:
 **No code available for the moment**.  
-You might want to join the [Discord Server](https://discord.gg/Q5RTE3GF9Y) of the mod. Stay tuned to news, polls, and soon, codes launch!
+You might want to join the [Discord Server](https://discord.gg/Q5RTE3GF9Y) of the mod. Stay tuned to news, polls, and soon, codes launch!  
+**Some codes, tho:**  
+[Custom key generator](https://github.com/W0lfan/Starblast-Team-Fights/blob/main/Codes%20snippets/Key%20Generator.js)  
+[Game scoreboard code](https://github.com/W0lfan/Starblast-Team-Fights/blob/main/Codes%20snippets/Scoreboard.js)  
+[Code to get ships names](https://github.com/W0lfan/Starblast-Team-Fights/blob/main/Codes%20snippets/Ships_Names.js)  
+
