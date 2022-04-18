@@ -29,7 +29,6 @@ var Generate_Key = function(New = true, Player_Id, length = 11) {
     } else {
         for (let key in keys) {
             if (parseInt(key) === Player_Id) {
-                delete keys[key];
                 for (let key_ in keys) {
                     if (key_ != 0) {
                         keys[`${key_-1}`] = keys[`${key_}`];
