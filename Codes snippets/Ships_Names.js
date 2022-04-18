@@ -58,3 +58,4 @@ var Get_Ships_Names = function(Component_ShowUp = null) {
     if (Component_ShowUp === true) return CapsShips;
     else return ships;
 };
+ 
