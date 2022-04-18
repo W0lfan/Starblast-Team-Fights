@@ -43,4 +43,4 @@ var scoreboard = {
     id: "scoreboard",
     visible: true,
     components: []
-};
+}; 
