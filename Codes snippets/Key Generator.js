@@ -1,3 +1,5 @@
+// Code by Naf naf.
+// DO NOT modify anything except if you know what you're doing.
 
 var keys = {};
 var Players_Playing = [[],[]];
