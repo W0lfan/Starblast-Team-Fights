@@ -66,7 +66,6 @@ var Simulate_On_Click = function(click, playerId) {
         }
         if (!keyIn) Key = Generate_Key(true,playerId,11, "test");
         Waiting_Players.push(Key);
-        echo(Waiting_Players)
     } else if (!click) {
         for (let key in keys) {
             if (keys[key].Id === playerId) {
@@ -97,7 +96,6 @@ Simulate_On_Click(true,1)
 console.log(keys, "\nShips waiting custom IDs: ", Waiting_Players.join(', '));
 
 // If enough players waiting:
-echo(Players_Playing[0].length, Players_Playing[1], " LENGTH")
 var exclude = [];
 Waiting_Players.forEach(id => {
     var Name = Return_Keys_Values("Name","Ship_Key",id);
@@ -116,9 +114,6 @@ Waiting_Players.forEach(id => {
 })
 exclude.forEach(key => Waiting_Players.splice(Waiting_Players.indexOf(key),1));
 exclude = [];
-// Waiting_Players.splice(Waiting_Players.indexOf(id),1);
-
-
 
 for (let customKey in Players_Playing) {
     let Name = Return_Keys_Values("Name","Ship_Key",Players_Playing[customKey][0]);
